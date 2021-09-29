@@ -1,7 +1,4 @@
 // Base class vehicle
-//
-// David John
-// March 2021
 
 
 public class Vehicle {
